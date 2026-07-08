@@ -1,16 +1,44 @@
-# React + Vite
+# 👋 Logesh V — AWS Cloud & DevOps Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A personal portfolio website showcasing my projects, skills, and experience as a fresher **AWS Cloud & DevOps Engineer**.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** _[Add Vercel link here after deployment]_
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 About
 
-## React Compiler
+Motivated fresher AWS Cloud & DevOps Engineer with hands-on internship experience at GreenTechnology, Chennai. Proficient in 10+ AWS services and DevOps tools including Docker, Kubernetes, Terraform, and CI/CD pipelines.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Featured Projects
 
-## Expanding the Oxlint configuration
+- **[FreshMart](https://github.com/loki307/freshmart-grocery)** – Highly available 3-tier grocery web app using 10 AWS services (EC2, S3, RDS, VPC, CloudFront, IAM, CloudWatch, SNS)
+- **[DevOps CI/CD Pipeline](https://github.com/loki307/myapp)** – Dockerized Flask app deployed on Kubernetes (Minikube) with automated GitHub Actions CI/CD pipeline
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Built With
+
+- **Frontend:** React + Vite
+- **Styling:** Custom CSS (split-screen layout)
+- **Deployment:** Vercel
+- **Version Control:** Git & GitHub
+
+## 📂 Sections
+
+- Education
+- Internship Experience
+- Projects
+- Technical Skills
+- Resume Download
+- Contact
+
+## 📄 Resume
+
+Download my resume directly from the site, or [view it here](./public/resume.pdf).
+
+## 📫 Contact
+
+- **Email:** lokeshpandian232@gmail.com
+- **LinkedIn:** [linkedin.com/in/logesh-v](https://linkedin.com/in/logesh-v)
+- **GitHub:** [github.com/loki307](https://github.com/loki307)
+
+---
+
+⭐ Built as both a personal portfolio and a DevOps project — demonstrating React development, CI/CD workflows, and cloud deployment practices.
