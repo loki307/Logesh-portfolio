@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my projects, skills, and experience as a fresher **AWS Cloud & DevOps Engineer**.
 
-🔗 **Live Site:** _[Add Vercel link here after deployment]_
+🔗 **Live Site:**  https://logesh-portfolio-xi.vercel.app/
 
 ## 📌 About
 
