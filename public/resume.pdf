@@ -1,0 +1,882 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6422
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 49.2 728 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL 205.12 0 Td (LOGESH V) Tj T* -205.12 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 700 cm
+q
+BT 1 0 0 1 0 14.5 Tm 29.104 0 Td 12 TL /F1 9.5 Tf .2 .2 .2 rg (+91 6385885011 | lokeshpandian232@gmail.com | linkedin.com/in/logesh-v | github.com/loki307 | ) Tj /F2 9.5 Tf (Portfolio:) Tj T* 109.2642 0 Td (logesh-portfolio-xi.vercel.app) Tj /F1 9.5 Tf ( | Thanjavur, Tamil Nadu) Tj T* -138.3682 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 670 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 666.8 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 582.8 cm
+q
+BT 1 0 0 1 0 68.5 Tm 13 TL /F1 9.5 Tf 0 0 0 rg (Motivated fresher AWS Cloud & DevOps Engineer with hands-on internship experience at Green Technology, Chennai.) Tj T* (Proficient in 10+ AWS services \(EC2, S3, RDS, VPC, Lambda, CloudWatch, IAM, API Gateway, CloudFront, SNS\) and) Tj T* (DevOps tools \(Git, Jenkins, Terraform, Docker, Kubernetes, GitHub Actions, Splunk\). Built and deployed a) Tj T* (production-grade 3-tier serverless grocery web application on AWS and implemented a complete CI/CD pipeline with) Tj T* (Kubernetes orchestration. Passionate about cloud automation, CI/CD pipelines, and infrastructure-as-code. Seeking a) Tj T* (cloud-focused entry-level role to contribute and grow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 552.8 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 549.6 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 531.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (B.Tech \226 Computer Science and Engineering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 517.6 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F3 9.5 Tf 12 TL (PRIST University, Thanjavur | 2022 \226 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 500.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relevant Coursework: Cloud Computing, Computer Networks, Operating Systems, Data Structures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 470.6 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 467.4 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 448.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Cloud Platforms:) Tj /F1 9.5 Tf ( AWS \(EC2, S3, RDS, VPC, Lambda, CloudWatch, IAM, API Gateway, CloudFront, SNS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 429.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (DevOps & CI/CD:) Tj /F1 9.5 Tf ( Jenkins, Git, GitHub, Docker, Kubernetes, GitHub Actions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 410.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Infrastructure as Code:) Tj /F1 9.5 Tf ( Terraform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 391.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Monitoring & Logging:) Tj /F1 9.5 Tf ( CloudWatch, Splunk) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 372.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Operating Systems:) Tj /F1 9.5 Tf ( Linux \(Ubuntu\), Windows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 353.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Networking:) Tj /F1 9.5 Tf ( VPC, Subnets, Security Groups, Internet Gateway, VPC Peering, Elastic IP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 334.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Programming:) Tj /F1 9.5 Tf ( Python Fundamentals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 304.4 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (INTERNSHIP EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 301.2 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 283.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (AWS DevOps Intern \226 GreenTechnology, Chennai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 269.2 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F3 9.5 Tf 12 TL (February 2026 \226 June 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 239.2 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 239.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Provisioned and managed AWS infrastructure including EC2 instances, S3 buckets, VPC, and IAM roles, supporting 3+) Tj T* (internal projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 213.2 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 213.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Set up and maintained CI/CD pipelines using Jenkins, reducing manual deployment steps by automating build and) Tj T* (release workflows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 187.2 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 187.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Monitored application performance and system logs using CloudWatch and Splunk; identified and escalated anomalies,) Tj T* (improving issue resolution time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 161.2 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 161.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Implemented Terraform scripts for infrastructure-as-code provisioning on AWS, enabling repeatable and) Tj T* (version-controlled deployments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 135.2 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 135.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Gained practical experience in Linux \(Ubuntu\) server administration, Git version control, Docker containerization, and) Tj T* (cloud networking \(VPC, subnets, security groups\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 105.2 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (PROJECT EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 102 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 84 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (DevOps CI/CD Pipeline with Kubernetes | Docker, Kubernetes, GitHub Actions, Python, Flask) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 70 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F3 9.5 Tf 12 TL (github.com/loki307/myapp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 53 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 1 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 53 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Developed a Python Flask web application and containerized it using Docker for consistent and portable deployment) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 4704
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 49.2 724 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 724 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Implemented a fully automated CI/CD pipeline using GitHub Actions that triggers Docker builds on every code push to) Tj T* (main branch) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 698 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 698 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Deployed the application on Kubernetes \(Minikube\) with 2 replicas ensuring high availability and auto-scaling) Tj T* (capabilities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 685 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 1 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 685 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Configured Kubernetes Deployment and Service manifests \(YAML\) for production-grade container orchestration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 679 cm
+Q
+q
+1 0 0 1 49.2 667 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (FreshMart \226 Highly Available 3-Tier Grocery Web Application | AWS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 653 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F3 9.5 Tf 12 TL (github.com/loki307/freshmart-grocery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 623 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 623 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Architected and deployed a full-stack 3-tier grocery web app using S3 + CloudFront \(frontend\), EC2 + Node.js) Tj T* (\(backend\), RDS MySQL \(database\) with 10 AWS services) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 610 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 1 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 610 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Built complete e-commerce functionality: user authentication, product catalog, shopping cart, and order placement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 584 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 584 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.088769 Tw (Configured IAM roles with least-privilege policies and monitored infrastructure health using CloudWatch dashboards and) Tj T* 0 Tw (SNS alert notifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 558 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 558 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Deployed in ap-south-1 region with high availability by leveraging managed AWS services to eliminate single points of) Tj T* (failure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 552 cm
+Q
+q
+1 0 0 1 49.2 540 cm
+q
+BT 1 0 0 1 0 1.5 Tm 12 TL /F2 10.5 Tf 0 0 0 rg (IoT-Enabled Smart Energy Meter with Real-Time Cloud Updates & AI Analytics | AWS IoT Core, Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 512 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 512 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Developed an IoT-based smart energy monitoring system using AWS IoT Core for real-time device data ingestion and) Tj T* (cloud synchronization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 486 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 486 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Integrated cloud storage and AI-driven analytics to track energy usage patterns and generate actionable efficiency) Tj T* (insights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 473 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 1 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 473 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Enabled remote monitoring capabilities, reducing the need for on-site inspection and improving operational efficiency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 443 cm
+q
+BT 1 0 0 1 0 5.5 Tm 18 TL /F2 12.5 Tf .121569 .305882 .47451 rg (CERTIFICATIONS & TRAINING) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 439.8 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 420.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (\177 AWS Certified Cloud Practitioner \226 Orion Shift, Thanjavur) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 388.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (\177 DevOps Practitioner \226 Terraform, Jenkins CI/CD Pipelines, Splunk Log Monitoring \226 Green Technology, Chennai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 358.8 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (SOFT SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 355.6 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 336.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Clear Communication | Technical Documentation | Team Collaboration | Leadership | Problem Solving | Attention to Detail) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+12 0 obj
+<<
+/Length 6526
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 49.2 728 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL 205.12 0 Td (LOGESH V) Tj T* -205.12 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 700 cm
+q
+BT 1 0 0 1 0 14.5 Tm 29.104 0 Td 12 TL /F1 9.5 Tf .2 .2 .2 rg (+91 6385885011 | lokeshpandian232@gmail.com | linkedin.com/in/logesh-v | github.com/loki307 | ) Tj /F2 9.5 Tf (Portfolio:) Tj T* 109.2642 0 Td (logesh-portfolio-xi.vercel.app) Tj /F1 9.5 Tf ( | Thanjavur, Tamil Nadu) Tj T* -138.3682 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 670 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 666.8 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 582.8 cm
+q
+BT 1 0 0 1 0 68.5 Tm 13 TL /F1 9.5 Tf 0 0 0 rg (Motivated fresher AWS Cloud & DevOps Engineer with hands-on internship experience at Green Technology, Chennai.) Tj T* (Proficient in 10+ AWS services \(EC2, S3, RDS, VPC, Lambda, CloudWatch, IAM, API Gateway, CloudFront, SNS\) and) Tj T* (DevOps tools \(Git, Jenkins, Terraform, Docker, Kubernetes, GitHub Actions, Splunk\). Built and deployed a) Tj T* (production-grade 3-tier serverless grocery web application on AWS and implemented a complete CI/CD pipeline with) Tj T* (Kubernetes orchestration. Passionate about cloud automation, CI/CD pipelines, and infrastructure-as-code. Seeking a) Tj T* (cloud-focused entry-level role to contribute and grow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 552.8 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 549.6 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 531.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (B.Tech \226 Computer Science and Engineering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 517.6 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F3 9.5 Tf 12 TL (PRIST University, Thanjavur | 2022 \226 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 500.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relevant Coursework: Cloud Computing, Computer Networks, Operating Systems, Data Structures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 470.6 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 467.4 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 448.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Cloud Platforms:) Tj /F1 9.5 Tf ( AWS \(EC2, S3, RDS, VPC, Lambda, CloudWatch, IAM, API Gateway, CloudFront, SNS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 429.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (DevOps & CI/CD:) Tj /F1 9.5 Tf ( Jenkins, Git, GitHub, Docker, Kubernetes, GitHub Actions, CI/CD Pipelines) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 410.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Infrastructure as Code:) Tj /F1 9.5 Tf ( Terraform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 391.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Monitoring & Logging:) Tj /F1 9.5 Tf ( CloudWatch, Splunk, Root Cause Analysis, Incident Response) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 372.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Operating Systems:) Tj /F1 9.5 Tf ( Linux \(Ubuntu\) System Administration, Windows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 353.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Networking:) Tj /F1 9.5 Tf ( VPC, Subnets, Security Groups, Internet Gateway, VPC Peering, Elastic IP, Networking Fundamentals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 334.4 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Programming:) Tj /F1 9.5 Tf ( Python Fundamentals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 304.4 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (INTERNSHIP EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 301.2 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 283.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (AWS DevOps Intern \226 GreenTechnology, Chennai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 269.2 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F3 9.5 Tf 12 TL (February 2026 \226 June 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 239.2 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 239.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Provisioned and managed AWS infrastructure including EC2 instances, S3 buckets, VPC, and IAM roles, supporting 3+) Tj T* (internal projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 213.2 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 213.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Set up and maintained CI/CD pipelines using Jenkins, reducing manual deployment steps by automating build and) Tj T* (release workflows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 187.2 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 187.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Monitored application performance and system logs using CloudWatch and Splunk; identified and escalated anomalies,) Tj T* (improving issue resolution time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 161.2 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 161.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Implemented Terraform scripts for infrastructure-as-code provisioning on AWS, enabling repeatable and) Tj T* (version-controlled deployments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 135.2 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 14 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 135.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Gained practical experience in Linux \(Ubuntu\) server administration, Git version control, Docker containerization, and) Tj T* (cloud networking \(VPC, subnets, security groups\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 105.2 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (PROJECT EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 102 cm
+q
+1.2 w
+1 J
+.180392 .458824 .713725 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 84 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (DevOps CI/CD Pipeline with Kubernetes | Docker, Kubernetes, GitHub Actions, Python, Flask) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 70 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F3 9.5 Tf 12 TL (github.com/loki307/myapp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 53 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 -4 1 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 59.2 53 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Developed a Python Flask web application and containerized it using Docker for consistent and portable deployment) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000359 00000 n 
+0000006833 00000 n 
+0000006884 00000 n 
+0000006991 00000 n 
+0000007103 00000 n 
+0000007218 00000 n 
+0000007409 00000 n 
+0000012166 00000 n 
+trailer
+<<
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+18745
+%%EOF
